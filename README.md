@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Instagram : @rahmadika_z
+- 📫 How to reach me Instagram : @reza_rahmadika_
 
 <!---
 rahmadika/rahmadika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
